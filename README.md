@@ -17,7 +17,3 @@ Escrita de um projeto utilizando IA, seguindo um roteiro pré-definido.
 
 
 
-
-Alguns sites de Bases de Dados:
-https://archive.ics.uci.edu/datasets
-https://www.kaggle.com/
